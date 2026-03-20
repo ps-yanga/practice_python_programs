@@ -10,4 +10,4 @@ for i in range(len(word)):
 if found:
     print(pos)
 else:
-    print("Not found")
+    print("Not found ")
